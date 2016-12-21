@@ -1,5 +1,5 @@
 theme: jekyll-theme-hacker
-title: xkrupprubu
+title: Hardcore Reviews
 email: xkrupprubu@github.com
 description: 'hardcore reviews'
 github_username: xkrupprubu
@@ -10,6 +10,7 @@ gems:
     - jekyll-sitemap
     - jekyll-seo-tag
     - jekyll-feed
+    - jekyll-toc
     - jemoji
 sass:
     style: compressed

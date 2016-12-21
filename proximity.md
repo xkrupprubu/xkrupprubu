@@ -1,1 +1,0 @@
-# Proximity BBDO Indian Ocean
