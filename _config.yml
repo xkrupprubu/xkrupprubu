@@ -1,1 +1,28 @@
 theme: jekyll-theme-hacker
+title: xkrupprubu
+email: xkrupprubu@github.com
+description: 'hardcore reviews'
+github_username: xkrupprubu
+future: true
+excerpt_separator: '---'
+gems:
+    - jekyll-redirect-from
+    - jekyll-sitemap
+    - jekyll-seo-tag
+    - jekyll-feed
+    - jemoji
+sass:
+    style: compressed
+exclude:
+    - node_modules
+    - README.md
+    - LICENSE.md
+    - CNAME
+    - Gemfile
+    - Gemfile.lock
+    - Gruntfile.js
+    - package.json
+    - script
+    - spec
+include:
+    - _pages
